@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.con {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  font-family: 'bree serif';
+}
+.head {
+  color: #f0bb03;
+  font-weight: bolder;
+  padding: 10px;
+}
+.para {
+  color: white;
+}
+.button {
+  color: #1e293b;
+  background-color: white;
+  padding: 5px;
+  height: 30px;
+  width: 120px;
+  border-radius: 5px;
+  border-width: 0px;
+}
